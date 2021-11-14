@@ -1,0 +1,6 @@
+framework module Pods_CombinePhotoFiltering {
+  umbrella header "Pods-CombinePhotoFiltering-umbrella.h"
+
+  export *
+  module * { export * }
+}
